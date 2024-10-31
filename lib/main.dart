@@ -15,4 +15,5 @@ class AnaUygulama extends StatelessWidget {
     );
   }
 }
+// yorıum satır
 //ghghgh
